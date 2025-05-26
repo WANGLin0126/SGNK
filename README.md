@@ -130,8 +130,8 @@ For questions or collaborations, please visit the [project page](https://anonymo
 
 ---
 
-## 📝 License
+<!-- ## 📝 License
 
 This project is released under an open-source license. See the `LICENSE` file for details.
 
-License: [MIT](./LICENSE) © 2025 WANG Lin
+License: [MIT](./LICENSE) © 2025 WANG Lin -->
