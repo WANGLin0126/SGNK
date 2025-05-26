@@ -79,10 +79,11 @@ README.md             # Project documentation
 
 ### 📦 Install Dependencies
 
+
+<!-- git clone https://anonymous.4open.science/r/SGNK-1CE4/
+cd SGNK -->
 ```bash
-git clone https://anonymous.4open.science/r/SGNK-1CE4/
-cd SGNK
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 ### 🚀 Run Examples
